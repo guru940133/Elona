@@ -101,7 +101,7 @@
 <section id="contact" class="contact">
   <h2>Contact Us</h2>
   <p>Email: contact@elonaapparels.com</p>
-  <p>Phone: +91 98765 43210</p>
+  <p>Phone: +91 72004 78580</p>
   <p>Follow us on Instagram: @elonaapparels</p>
 </section>
 
